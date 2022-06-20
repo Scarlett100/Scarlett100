@@ -3,8 +3,6 @@
 <<h1 align="center">Hi 👋, I'm Scarlett</h1>
 <h3 align="center">👨‍💻 A passionate Data and DevOps enthusiast from London</h3>
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/stickers/adwise-work-progress-yourdigitalbrain-ZdxrAVN4N56KVSzTDH”>
-
 
 - 🌱 I’m currently learning **Anaplan**
 
