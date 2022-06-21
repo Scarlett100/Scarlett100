@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **Anaplan**
 
+- 🔭 I’m currently working on **doing more personal projects**
+
 - 📫 How to reach me **https://www.linkedin.com/in/scarlett-s-07a506b3**
 
 - ⚡ Fun fact **I love languages and music**
