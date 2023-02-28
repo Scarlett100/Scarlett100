@@ -3,24 +3,28 @@
 <<h1 align="center">Hi 👋! I'm Scarlett</h1>
 <h3 align="center">👨‍💻 A passionate data and devOps enthusiast from London</h3>
 
-
-![Alt Text](https://media.giphy.com/media/kcBsIO0spJCuwwR9Se/giphy.gif)
-
-
+![Alt Text](https://media.giphy.com/media/kcBsIO0spJCuwwR9Se/giphy.gif)  
 
 - 🌱 I’m currently revising for my **AWS CCP and enjoying Snowflakes Data Application course**
 
 - 🔭 This year i'm hoping to work on **doing more personal projects and improving my Github**
 
-- 📫 How to reach me **https://www.linkedin.com/in/scarlett-s-07a506b3**
+- 📫 How to reach me: **https://www.linkedin.com/in/scarlett-morgan-s-07a506b3**
 
 - ⚡ Fun fact: **I love languages and music**
+
+ 
+
+
+
+
+
 
                                                  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/scarlett-s-07a506b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/scarlett-s-07a506b3" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/scarlett-morgan-s-07a506b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/scarlett-morgan-s-07a506b3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
