@@ -1,7 +1,7 @@
 
  
 <<h1 align="center">Hi 👋! I'm Scarlett</h1>
-<h3 align="center">👨‍💻 A passionate data and devOps enthusiast from London</h3>
+<h3 align="center">👨‍💻 A passionate Data and DevOps enthusiast from London</h3>
 
 ![Alt Text](https://media.giphy.com/media/kcBsIO0spJCuwwR9Se/giphy.gif)  
 
