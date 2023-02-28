@@ -1,16 +1,16 @@
 
  
 <<h1 align="center">Hi 👋, I'm Scarlett</h1>
-<h3 align="center">👨‍💻 A passionate Data and DevOps enthusiast from London</h3>
+<h3 align="center">👨‍💻 A passionate data and devOps enthusiast from London</h3>
 
 
 ![Alt Text](https://media.giphy.com/media/kcBsIO0spJCuwwR9Se/giphy.gif)
 
 
 
-- 🌱 I’m currently learning **Anaplan**
+- 🌱 I’m currently revising for my **AWS CCP ** and **enjoying Snowflakes Data Application course**
 
-- 🔭 I’m currently working on **doing more personal projects and improving my Github**
+- 🔭 This year i'm hoping to work on **doing more personal projects and improving my Github**
 
 - 📫 How to reach me **https://www.linkedin.com/in/scarlett-s-07a506b3**
 
