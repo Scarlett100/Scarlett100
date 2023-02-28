@@ -8,13 +8,13 @@
 
 
 
-- 🌱 I’m currently revising for my **AWS CCP ** and **enjoying Snowflakes Data Application course**
+- 🌱 I’m currently revising for my **AWS CCP and enjoying Snowflakes Data Application course**
 
 - 🔭 This year i'm hoping to work on **doing more personal projects and improving my Github**
 
 - 📫 How to reach me **https://www.linkedin.com/in/scarlett-s-07a506b3**
 
-- ⚡ Fun fact **I love languages and music**
+- ⚡ Fun fact: **I love languages and music**
 
                                                  
 
