@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **https://www.linkedin.com/in/scarlett-morgan-s-07a506b3**
 
-- ⚡ Fun fact: **I love languages and music**
+- ⚡ Fun fact: **I love languages and music and am a certified Scrum Master**
 
  
 
