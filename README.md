@@ -5,13 +5,15 @@
 
 ![Alt Text](https://media.giphy.com/media/kcBsIO0spJCuwwR9Se/giphy.gif)  
 
+- 👨‍💻 I'm a Certified Scrum Master and have my AWS Certified Cloud Practioner cert.
+
 - 🌱 I’m currently revising for my **AWS CCP and enjoying Snowflakes Data Application course**
 
 - 🔭 This year i'm hoping to work on **doing more personal projects and improving my Github**
 
-- 📫 How to reach me: **https://www.linkedin.com/in/scarlett-morgan-s-07a506b3**
+- 📫 How to reach me: **https://www.linkedin.com/in/morganscstewart** 
 
-- ⚡ Fun fact: **I love languages and music and am a certified Scrum Master**
+- ⚡ Fun fact: **I love languages and music.**
 
  
 
