@@ -3,7 +3,7 @@
 <<h1 align="center">Hi 👋! I'm Scarlett</h1>
 <h3 align="center">👨‍💻 A passionate Data and DevOps enthusiast from London</h3>
 
-<html>
+
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -21,7 +21,7 @@ img {
 <img src="https://media.giphy.com/media/kcBsIO0spJCuwwR9Se/giphy.gif" alt="Paris" style="width:50%;">
 
 </body>
-</html>
+
 
 
 
