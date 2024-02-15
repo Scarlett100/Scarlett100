@@ -5,7 +5,7 @@
 
 ![Alt Text](https://media.giphy.com/media/kcBsIO0spJCuwwR9Se/giphy.gif)  
 
-- 👨‍💻 I'm a Certified Scrum Master and have my AWS Certified Cloud Practioner cert.
+- 👨‍💻 I'm a **Certified Scrum Master** and have my **AWS Certified Cloud Practioner** cert.
 
 - 🌱 I’m currently revising for my **AWS CCP and enjoying Snowflakes Data Application course**
 
