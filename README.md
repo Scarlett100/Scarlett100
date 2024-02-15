@@ -4,28 +4,6 @@
 <h3 align="center">👨‍💻 A passionate Data and DevOps enthusiast from London</h3>
 
 
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-</head>
-<body>
-
-
-
-<img src="https://media.giphy.com/media/kcBsIO0spJCuwwR9Se/giphy.gif" alt="Paris" style="width:50%;">
-
-</body>
-
-
-
-
-
 ![Alt Text](https://media.giphy.com/media/kcBsIO0spJCuwwR9Se/giphy.gif)  
 
 - 👨‍💻 I'm a **Certified Scrum Master** and have my **AWS Certified Cloud Practioner** cert.
