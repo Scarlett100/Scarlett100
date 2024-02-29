@@ -8,7 +8,7 @@
 
 - 👨‍💻 I'm a **Certified Scrum Master** and have my **AWS Certified Cloud Practioner** cert.
 
-- 🌱 I’m currently revising for my **AWS CCP and enjoying Snowflakes Data Application course**
+- 🌱 I’m currently revising for my **Github Foundations exam**
 
 - 🔭 This year i'm hoping to work on **doing more personal projects and improving my Github**
 
