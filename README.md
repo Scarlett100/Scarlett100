@@ -14,10 +14,10 @@
 
 - 📫 How to reach me: **https://www.linkedin.com/in/morganscstewart** 
 
-- ⚡ Favourite tech tools/platforms :  **Terraform**,**SQL** & **Snowflake** 
+- ⚡ Favourite tech tools/platforms :  **Terraform**, **SQL** & **Snowflake** 
                                                  
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Click the icon to connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/scarlett-morgan-s-07a506b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/scarlett-morgan-s-07a506b3" height="30" width="40" /></a>
 </p>
