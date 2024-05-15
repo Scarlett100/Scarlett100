@@ -8,13 +8,13 @@
 
 - 👨‍💻 I'm a **Certified Scrum Master** and have my **AWS Certified Cloud Practioner** cert.
 
-- 🌱 I’m currently upskilling within DevOps.
+- 🌱 I’m currently upskilling and studying for my **Github Foundations** and **AWS Solutions Architect**.
 
 - 🔭 This year i'm hoping to work on **doing more personal projects and improving my Github**
 
 - 📫 How to reach me: **https://www.linkedin.com/in/morganscstewart** 
 
-- ⚡ Favourite tech tools/platforms : SQL, Snowflake & Terraform
+- ⚡ Favourite tech tools/platforms :  **Terraform**,**SQL** & **Snowflake** 
                                                  
 
 <h3 align="left">Connect with me:</h3>
