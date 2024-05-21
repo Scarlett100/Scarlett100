@@ -8,11 +8,11 @@
 
 - 👨‍💻 I'm a **Certified Scrum Master** and have my **AWS Certified Cloud Practioner** cert.
   
--  My dream is to one day become a **senior DevOps Engineer** and mentor young professionals entering the space.
+- :cherry_blossom: My dream is to one day become a **senior DevOps Engineer** and mentor young professionals entering the space.
    
 - 🌱 I’m currently upskilling and studying for my **Github Foundations** and **AWS Solutions Architect**.
 
-- 🔭 This year i'm hoping to work on **doing more personal projects, improving my Github and working in the cloud**
+- 🔭 This year i'm hoping to work on **doing more personal projects, improving my Github and working in the cloud** :cloud:
 
 - 📫 How to reach me: **https://www.linkedin.com/in/morganscstewart** 
 
