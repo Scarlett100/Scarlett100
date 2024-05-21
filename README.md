@@ -8,7 +8,7 @@
 
 - 👨‍💻 I'm a **Certified Scrum Master** and have my **AWS Certified Cloud Practioner** cert.
   
-- :cherry_blossom: My dream is to one day become a **senior DevOps Engineer** and mentor young professionals entering the space.
+- :cherry_blossom: My dream is to one day become a **Senior DevOps Engineer** and mentor young professionals entering the space.
    
 - 🌱 I’m currently upskilling and studying for my **Github Foundations** and **AWS Solutions Architect**.
 
