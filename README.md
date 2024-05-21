@@ -16,7 +16,7 @@
 
 - 📫 How to reach me: **https://www.linkedin.com/in/morganscstewart** 
 
-- ⚡ Favourite tech tools/platforms :  **Terraform**, **SQL** & **Snowflake** 
+- ⚡ Favourite tech tools/platforms :  **Terraform**, **SQL** & **Snowflake** :snowflake:
                                                  
 
 <h3 align="left">Click the icon to connect with me:</h3>
