@@ -1,16 +1,18 @@
 
  
 <<h1 align="center">Hi 👋! I'm Morgan</h1>
-<h3 align="center">👨‍💻 A passionate Data and DevOps enthusiast from London</h3>
+<h3 align="center">👨‍💻 A passionate DevOps and data enthusiast from London</h3>
 
 
 ![Alt Text](https://media.giphy.com/media/kcBsIO0spJCuwwR9Se/giphy.gif)  
 
 - 👨‍💻 I'm a **Certified Scrum Master** and have my **AWS Certified Cloud Practioner** cert.
-
+  
+-  My dream is to one day become a **senior DevOps Engineer** and mentor young professionals entering the space.
+   
 - 🌱 I’m currently upskilling and studying for my **Github Foundations** and **AWS Solutions Architect**.
 
-- 🔭 This year i'm hoping to work on **doing more personal projects and improving my Github**
+- 🔭 This year i'm hoping to work on **doing more personal projects, improving my Github and working in the cloud**
 
 - 📫 How to reach me: **https://www.linkedin.com/in/morganscstewart** 
 
