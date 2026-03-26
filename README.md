@@ -14,10 +14,7 @@
 
 - 🔭 My goal is to help engineering teams adopt cloud tools, modernise workflows and remove blockers.
 
-- 📫 How to reach me: **https://www.linkedin.com/in/morganscstewart** 
-
-- ⚡ Favourite tech tools/platforms :  
-                                                 
+- 📫 How to reach me: **https://www.linkedin.com/in/morganscstewart**                                                  
 
 <h3 align="left">Click the icon to connect with me:</h3>
 <p align="left">
