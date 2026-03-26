@@ -12,7 +12,7 @@
    
 - 🌱 I’m currently upskilling and studying for my **Github Foundations** and **AWS Solutions Architect**.
 
-- 🔭 
+- 🔭 This year i'm focusing on building more projects, improving cloud skills and strengthening engineering teams.
 
 - 📫 How to reach me: **https://www.linkedin.com/in/morganscstewart**                                                  
 
