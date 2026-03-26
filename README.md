@@ -1,22 +1,22 @@
 
  
 <<h1 align="center">Hi 👋! I'm Morgan</h1>
-<h3 align="center">👨‍💻 A passionate DevOps and data enthusiast from London</h3>
+<h3 align="center">👨‍💻 A Cloud-focussed technologist from London</h3>
 
 
 ![Alt Text](https://media.giphy.com/media/kcBsIO0spJCuwwR9Se/giphy.gif)  
 
-- 👨‍💻 I'm a **Certified Scrum Master** and have my **AWS Certified Cloud Practioner** cert.
+- 👨‍💻 I'm a **Certified Scrum Master**, my **AWS Certified Cloud Practioner** and **Terraform Associate** cert.
   
-- :cherry_blossom: My dream is to one day become a **Senior DevOps Engineer** and mentor young professionals entering the space.
+- ☁️ I help teams adopt cloud tools, modernise workflows, and remove blockers.
    
 - 🌱 I’m currently upskilling and studying for my **Github Foundations** and **AWS Solutions Architect**.
 
-- 🔭 This year i'm hoping to work on **doing more personal projects, improving my Github and working in the cloud** :cloud:
+- 🔭 My goal is to help engineering teams adopt cloud tools, modernise workflows and remove blockers.
 
 - 📫 How to reach me: **https://www.linkedin.com/in/morganscstewart** 
 
-- ⚡ Favourite tech tools/platforms :  **Terraform**, **SQL** & **Snowflake** :snowflake:
+- ⚡ Favourite tech tools/platforms :  
                                                  
 
 <h3 align="left">Click the icon to connect with me:</h3>
