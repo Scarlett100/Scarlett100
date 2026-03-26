@@ -8,11 +8,11 @@
 
 - 👨‍💻 I'm a **Certified Scrum Master**, my **AWS Certified Cloud Practioner** and **Terraform Associate** cert.
   
-- ☁️ I help teams adopt cloud tools, modernise workflows, and remove blockers.
+- ☁️ My goal is to help teams adopt cloud tools, modernise workflows, and remove blockers.
    
 - 🌱 I’m currently upskilling and studying for my **Github Foundations** and **AWS Solutions Architect**.
 
-- 🔭 My goal is to help engineering teams adopt cloud tools, modernise workflows and remove blockers.
+- 🔭 
 
 - 📫 How to reach me: **https://www.linkedin.com/in/morganscstewart**                                                  
 
