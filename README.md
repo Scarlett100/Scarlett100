@@ -1,6 +1,6 @@
 
  
-<<h1 align="center">Hi 👋! I'm Morgan</h1>
+<<h1 align="center">Hi 👋! </h1>
 <h3 align="center">👨‍💻 A Cloud-focussed technologist from London</h3>
 
 
@@ -14,7 +14,7 @@
 
 - 🔭 This year i'm focusing on building more projects, improving cloud skills and strengthening engineering teams.
 
-- 📫 How to reach me: **https://www.linkedin.com/in/morganscstewart**                                                  
+
 
 <h3 align="left">Click the icon to connect with me:</h3>
 <p align="left">
